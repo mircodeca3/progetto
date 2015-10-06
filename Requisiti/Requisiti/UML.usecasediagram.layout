@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<useCaseDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="UML">
+  <useCaseModelRootMoniker Id="fdfcf20e-c528-44bb-86a0-5a4a8dcd6870" />
+  <nestedChildShapes>
+    <SubsystemShape Id="168f8e21-3e41-4774-a8bd-aa937d6f4ba4" absoluteBounds="4, 2, 3, 2.5" customColor="White">
+      <subsystemMoniker Id="a1cb2395-ec82-4ade-8e99-2ea110b2b805" LastKnownName="Subsystem1" />
+    </SubsystemShape>
+  </nestedChildShapes>
+</useCaseDiagram>
